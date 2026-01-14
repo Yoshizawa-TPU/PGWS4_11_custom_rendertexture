@@ -8,20 +8,20 @@
 
 ### ライフゲーム
 
-![結果](Result1.gif)
+![結果](https://github.com/user-attachments/assets/721f70fc-5622-420c-a903-c70b656f64f2)
+
 
 ### Curl noise
 
-![結果](Result2.gif)
+![結果](https://github.com/user-attachments/assets/64865c84-e1bd-493e-923b-f8037736d8a2)
+
 
 ### あなたの考えた素敵なシェーダー
 
 ![結果](Result.gif)
 
 - 工夫した点
-  - xxx
-  - xxx
-  - xxx
+  - ライフゲームで死んだところは色を変えて強調しようとしましたが、理解不足により、実装できませんでした。
 
 ## 進め方
 
